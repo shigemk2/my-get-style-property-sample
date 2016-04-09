@@ -18,6 +18,7 @@
   "homepage": "https://github.com/shigemk2/my-gulp-template#readme",
   "dependencies": {
     "browserify": "^13.0.0",
+    "get-style-property": "^0.1.1",
     "gulp": "^3.9.1",
     "vinyl-source-stream": "^1.1.0"
   }
