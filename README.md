@@ -1,3 +1,5 @@
-# my-gulp-template
+# my-get-style-property-sample
 
-A simple gulp template
+CSSの値を取得するやつ
+
+https://www.npmjs.com/package/get-style-property
